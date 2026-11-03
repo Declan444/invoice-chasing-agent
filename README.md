@@ -46,7 +46,7 @@ In every case the agent only **drafts** reminders. Nothing is sent until the own
 
 Part of a LinkedIn series by Declan Lenahan, DL Consultancy ([dlconsultancy.ie](https://dlconsultancy.ie)), explaining AI agents to business owners.
 
-1. What actually is an AI agent? _(link)_
+1. What actually is an AI agent? _[(link)](https://lnkd.in/p/dbUCHbZk)_
 2. The agent in action _(coming soon)_
 3. The easy route _(coming soon)_
 4. What it means for your business _(coming soon)_
