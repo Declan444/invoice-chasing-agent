@@ -32,7 +32,7 @@ Eleven real-world situations are planted in the data, each with a known correct 
 | Approach                                                     | What it does                                                                | Score (of 11) |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------- | ------------- |
 | **Workflow**                                                 | Chase anything past its due date with no payment quoting its invoice number | 3             |
-| **Agent** (Qwen2.5-Coder-7B, free and open)                  | Reads all three files, writes its own code, decides who to chase            | _coming soon_ |
+| **Agent** (Qwen2.5-Coder-7B, free and open)                  | Reads all three files, writes its own code, decides who to chase            | 3 |
 | **Off-the-shelf** (Claude / ChatGPT with the files uploaded) | The easy route most businesses should try first                             | _coming soon_ |
 
 In every case the agent only **drafts** reminders. Nothing is sent until the owner approves.
