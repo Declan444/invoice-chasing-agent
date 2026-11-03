@@ -1,0 +1,12 @@
+case,document_no,customer_name,what_it_looks_like,correct_action,amount_to_chase,why
+1,INV-2036,"The Corner Café, Tullamore",Overdue 6 days,CHASE: gentle reminder,€396.20,"Loyal 12-year customer, only a week late. Friendly nudge."
+2,INV-2026,"Riverside Hotel, Birr",Overdue 20 days,CHASE: standard reminder,€1012.80,"Control case. Normal overdue invoice, no special notes."
+3,INV-2023,"The Daily Grind, Mountmellick",Overdue 25 days,CHASE: firm reminder,€528.40,"Serial late payer, notes say next reminder should be firmer."
+4,INV-2024,"Rosie's Deli, Athlone",Looks paid (invoice number on bank line),CHASE: balance only,€420.00,Part payment of €500 on 15 Oct. Remaining €420 is overdue.
+5,INV-2020,"Lakeview Restaurant, Banagher",Overdue 32 days,CHASE: reduced amount,€555.00,"Credit note CN-0007 (€85) applies. Chase €555, not €640."
+6,INV-2021,"O'Brien's Centra, Portlaoise",Overdue (no matching reference),DO NOT CHASE: already paid,€0.00,€486.20 received 28 Sep from O'Brien's Centra with no invoice number. Amount and name match.
+7,INV-2022,Abbeyleix Golf Club,Overdue 28 days per system,DO NOT CHASE: not yet due,€0.00,60-day terms agreed. Really due 4 Nov 2026.
+8,"INV-2002, INV-2003, INV-2016","Bridge House Hotel, Tullamore","Overdue (3 invoices, oldest 85 days)",DO NOT CHASE: payment plan on track,€0.00,"Plan covers INV-2002, INV-2003, INV-2016. €300 received 1 Oct and 31 Oct."
+9,INV-2028,"The Tea Room, Clara",Overdue 18 days,DO NOT CHASE: phone about dispute,€0.00,"Customer disputing damaged delivery. House rule: ring, never send a reminder."
+10,INV-2032,"Green Fields Market Stall, Mullingar",Overdue 13 days,DO NOT CHASE: under €25,€0.00,€18.40. House rule: add to next invoice.
+11,INV-2035,Midlands Events Catering,Overdue 9 days,DO NOT CHASE: duplicate raised in error,€0.00,"Duplicate of INV-2034, which is paid. To be voided."

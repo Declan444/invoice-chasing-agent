@@ -1,0 +1,14 @@
+customer_id,customer_name,note_date,note
+ALL,(all customers),2026-01-10,House rule: balances under €25 are not chased. Add them to the customer's next invoice.
+ALL,(all customers),2026-01-10,House rule: never send a reminder on an invoice the customer is disputing. Ring them instead.
+C01,"The Corner Café, Tullamore",2026-03-02,"Customer for 12 years. Always pays, sometimes a week or so late in quiet months. Keep it friendly."
+C02,"Riverside Hotel, Birr",2026-05-14,Accounts handled by head office in Dublin. Send reminders to accounts@ address on file.
+C03,"O'Brien's Centra, Portlaoise",2026-04-20,Pays by bank transfer from their own banking app. Often forgets to put the invoice number.
+C04,"The Daily Grind, Mountmellick",2026-09-30,Late again. Paid the July and August invoices nearly 7 weeks late. Third time chasing this year. Next one should be firmer.
+C06,"Rosie's Deli, Athlone",2026-10-15,"Rosie rang, short this month, paid part of the September invoice. Said rest would follow."
+C07,Abbeyleix Golf Club,2026-09-01,Agreed 60-day payment terms with the club treasurer from September invoices on. Accounts system not updated yet.
+C08,"Bridge House Hotel, Tullamore",2026-09-15,"Hotel struggling after the refurb. Agreed payment plan: €300 on the 1st of each month until the €1,740.00 owed on INV-2002, INV-2003 and INV-2016 is cleared. Do not send reminders while the plan payments keep coming in."
+C09,"The Tea Room, Clara",2026-09-17,Owner complained crates arrived damaged and half the scones unusable. Disputing INV-2028. Need to sort a partial credit.
+C10,"Green Fields Market Stall, Mullingar",2026-06-01,Small weekly stall order. Very small amounts.
+C12,"Lakeview Restaurant, Banagher",2026-09-08,Short delivery on INV-2020: credit note CN-0007 for €85 issued.
+C15,Midlands Events Catering,2026-09-26,"INV-2035 was raised in error, a duplicate of INV-2034. To be voided. Customer told."
