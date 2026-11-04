@@ -35,8 +35,8 @@ The agent is tested with two brains and two briefs, to answer one question: *was
 
 | Agent | Original brief | Better, step-by-step brief |
 |---|---|---|
-| **Free model** (Qwen2.5-Coder-7B) | 3 of 11 | *coming soon* |
-| **Claude** (via the Anthropic API) | *coming soon* | *coming soon* |
+| **Free model** (Qwen2.5-Coder-7B) | 3 of 11 | 4 of 11 |
+| **Claude** (via the Anthropic API) | 11 of 11 | 11 of 11 |
 
 A "do not chase" case only counts if the agent also recorded why, so an agent that simply does nothing gets no credit. In every run the agent only **drafts** reminders, explains each decision in plain English with the evidence, and nothing is sent until the owner approves.
 
